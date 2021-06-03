@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataMungingKata", "DataMungingKata\DataMungingKata.csproj", "{425CC9CD-7186-41ED-9CDC-38C5811CCCBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMungingKataTests", "DataMungingKataTests\DataMungingKataTests.csproj", "{F885E24C-950E-4E97-BB96-243FDF67859E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425CC9CD-7186-41ED-9CDC-38C5811CCCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425CC9CD-7186-41ED-9CDC-38C5811CCCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425CC9CD-7186-41ED-9CDC-38C5811CCCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425CC9CD-7186-41ED-9CDC-38C5811CCCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F885E24C-950E-4E97-BB96-243FDF67859E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F885E24C-950E-4E97-BB96-243FDF67859E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F885E24C-950E-4E97-BB96-243FDF67859E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F885E24C-950E-4E97-BB96-243FDF67859E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4ED07A2-6833-45A5-9DE1-0BD84E1D4DC1}
+	EndGlobalSection
+EndGlobal
